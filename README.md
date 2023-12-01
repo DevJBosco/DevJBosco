@@ -1,4 +1,4 @@
-<div><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&color=0009F7&random=false&width=435&lines=Ol%C3%A1+me+chamo+Jo%C3%A3o+Bosco;Tenho+19+anos+e+sou+desenvolvedor+Jr." alt="Typing SVG" /></a>
+<div>align="center"<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&color=0009F7&random=false&width=435&lines=Ol%C3%A1+me+chamo+Jo%C3%A3o+Bosco;Tenho+19+anos+e+sou+desenvolvedor+Jr." alt="Typing SVG" /></a>
 
 
 # 💫 About Me:
