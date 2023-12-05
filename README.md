@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=250&color=3225F7&random=false&width=435&lines=Tenho+19+anos+e+busco+me+tornar;Um+desenvolvedor+jr" alt="Typing SVG" /></a>
 
 # 💫 About Me:
-🔭 Atualmente estou trabalhando em meu portfolio<br>👯 Estou procurando uma vaga de estagio<br>🤝 Estou procurando ajuda e dicas vindas por pessoas da área da programação<br>🌱 Atualmente estou aprendendo Java, HTML, CSS e Python.<br>💬 Pergunte-me sobre computação em nuvem e Java<br>⚡ Curiosidade: Sou apaixonado por Formula 1.
+🔭 Atualmente estou trabalhando em meu portfolio<br>👯 Estou procurando uma vaga de estagio<br>🤝 Estou procurando ajuda e dicas vindas por pessoas da área da programação<br>🌱 Atualmente estou aprendendo Java, HTML, CSS e Python.<br>💬 Pergunte-me sobre computação em nuvem e java<br>⚡ Curiosidade: Sou apaixonado por Formula 1.
 
 
 ## 🌐 Socials:
